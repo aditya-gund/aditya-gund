@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s GitHub Repository!
+# Welcome to Aditya's GitHub Repository!
 
 ## About Me
 
@@ -6,27 +6,27 @@ Hey there! 👋 I'm Aditya, a passionate Java developer with expertise in Spring
 
 ## Skills
 
-### Programming Languages:
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) Java
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) JavaScript
+### 🚀 Programming Languages:
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-### Frameworks & Technologies:
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) Spring Boot
-- ![Microservices](https://img.shields.io/badge/Microservices-%23E34F26.svg?&style=for-the-badge&logo=microgenetics&logoColor=white) Microservices
-- ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23000000.svg?&style=for-the-badge&logo=rest&logoColor=white) RESTful APIs
-- ![Hibernate](https://img.shields.io/badge/Hibernate-%23000000.svg?&style=for-the-badge&logo=hibernate&logoColor=white) Hibernate
+### 🛠️ Frameworks & Technologies:
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) 
+- ![Microservices](https://img.shields.io/badge/Microservices-%23E34F26.svg?&style=for-the-badge&logo=microgenetics&logoColor=white) 
+- ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23000000.svg?&style=for-the-badge&logo=rest&logoColor=white) 
+- ![Hibernate](https://img.shields.io/badge/Hibernate-%23000000.svg?&style=for-the-badge&logo=hibernate&logoColor=white) 
 
-### Database Management:
-- ![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?&style=for-the-badge&logo=mysql&logoColor=white) MySQL
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white) PostgreSQL
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) MongoDB
+### 🛢️ Database Management:
+- ![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white) 
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
 
-### Development Tools:
-- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) Git
-- ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white) Maven
-- ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white) Jenkins
+### ⚙️ Development Tools:
+- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
+- ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white) 
+- ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white) 
 
-### Other Skills:
+### 🧠 Other Skills:
 - Back-End Development
 - Object-Oriented Design
 - Agile Methodologies
