@@ -36,10 +36,10 @@ Hey there! 👋 I'm Aditya, a passionate Java developer with expertise in Spring
 ### Total Problems Solved: ![Total Problems](https://img.shields.io/badge/Total%20Problems-1234-green)
 
 #### Platforms:
-- **LeetCode**: ![LeetCode Problems](https://img.shields.io/badge/LeetCode-500-blue)
-- **HackerRank**: ![HackerRank Problems](https://img.shields.io/badge/HackerRank-300-green)
-- **GeeksforGeeks**: ![GeeksforGeeks Problems](https://img.shields.io/badge/GeeksforGeeks-234-yellow)
-- **Codeforces**: ![Codeforces Problems](https://img.shields.io/badge/Codeforces-200-red)
+- **LeetCode**: ![LeetCode Problems](https://img.shields.io/badge/LeetCode-488-blue)
+- **HackerRank**: ![HackerRank Problems](https://img.shields.io/badge/HackerRank-98-green)
+- **GeeksforGeeks**: ![GeeksforGeeks Problems](https://img.shields.io/badge/GeeksforGeeks-52-yellow)
+- **Codeforces**: ![Codeforces Problems](https://img.shields.io/badge/Codeforces-2-red)
 
 ## 🚀 My Contributions
 
