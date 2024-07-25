@@ -46,7 +46,7 @@ Hey there! 👋 I'm Aditya, a passionate Java developer with expertise in Spring
 ### Software Engineering Skills
 
 - **Low-Level Design (LLD) Repo**: ![LLD PRs](https://img.shields.io/badge/LLD%20PRs-10-blue)
-- **High-Level Design (HLD) Repo**: ![HLD PRs](https://img.shields.io/badge/HLD%20PRs-5-green)
+- **High-Level Design (HLD) Repo**: ![HLD PRs](https://img.shields.io/badge/HLD%20PRs-2-green)
 
 ## GitHub Stats
 
