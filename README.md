@@ -31,7 +31,26 @@ Hey there! 👋 I'm Aditya, a passionate Java developer with expertise in Spring
 - Object-Oriented Design
 - Agile Methodologies
 
-Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
+## 🧑‍💻 Coding Activity
+
+### Total Problems Solved: ![Total Problems](https://img.shields.io/badge/Total%20Problems-1234-green)
+
+#### Platforms:
+- **LeetCode**: ![LeetCode Problems](https://img.shields.io/badge/LeetCode-500-blue)
+- **HackerRank**: ![HackerRank Problems](https://img.shields.io/badge/HackerRank-300-green)
+- **GeeksforGeeks**: ![GeeksforGeeks Problems](https://img.shields.io/badge/GeeksforGeeks-234-yellow)
+- **Codeforces**: ![Codeforces Problems](https://img.shields.io/badge/Codeforces-200-red)
+
+## 🚀 My Contributions
+
+### Software Engineering Skills
+
+- **Low-Level Design (LLD) Repo**: ![LLD PRs](https://img.shields.io/badge/LLD%20PRs-10-blue)
+- **High-Level Design (HLD) Repo**: ![HLD PRs](https://img.shields.io/badge/HLD%20PRs-5-green)
+
+## GitHub Stats
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-gund&show_icons=true&theme=radical)
 
 ## Get in Touch
 
