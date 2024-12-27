@@ -1,7 +1,8 @@
 # 👨‍💻 Welcome to Aditya's GitHub Repository!
 
-![Banner](https://via.placeholder.com/1500x400.png?text=Welcome+to+Aditya's+GitHub+Profile!)  
-*(Insert a custom banner here with your name and tagline like "Java Developer | Spring Boot Enthusiast | Open Source Contributor")*
+![github-header-image](https://github.com/user-attachments/assets/1f36f01e-b401-41ff-a98f-a2dfbbe27428)
+
+
 
 ---
 
