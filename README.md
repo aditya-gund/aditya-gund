@@ -2,7 +2,7 @@
 
 ## DevOps Engineer | Cloud & Infrastructure Automation | CI/CD Specialist
 
-DevOps Engineer with 4.1 years of experience in cloud infrastructure, CI/CD automation, and deployment management. Hands-on experience in building and maintaining scalable deployment pipelines, automating infrastructure provisioning, and managing reliable cloud environments.
+DevOps Engineer  in cloud infrastructure, CI/CD automation, and deployment management. Hands-on experience in building and maintaining scalable deployment pipelines, automating infrastructure provisioning, and managing reliable cloud environments.
 
 ---
 
