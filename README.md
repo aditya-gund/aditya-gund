@@ -1,68 +1,49 @@
-# Hi, I'm Aditya 👋
+<h1 align="center">Hi, I'm Aditya 👋</h1>
+<h3 align="center">DevOps Engineer | Cloud & Infrastructure Automation | CI/CD</h3>
 
-## DevOps Engineer | Cloud & Infrastructure Automation | CI/CD Specialist
+<p align="center">
+  I build automated, reliable and scalable delivery pipelines and cloud infrastructure,
+  so teams can ship faster with fewer production surprises.
+</p>
 
-DevOps Engineer  in cloud infrastructure, CI/CD automation, and deployment management. Hands-on experience in building and maintaining scalable deployment pipelines, automating infrastructure provisioning, and managing reliable cloud environments.
-
----
-
-## About Me
-
-- Working as a DevOps Engineer with experience in cloud infrastructure and deployment automation  
-- Skilled in AWS, Docker, Kubernetes, Jenkins, Terraform, and Linux  
-- Focused on improving deployment efficiency and infrastructure reliability  
-- Experienced in monitoring production environments and troubleshooting infrastructure issues  
-- Passionate about automation, scalability, and continuous improvement  
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-gund"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:adityagundg14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## Tech Stack
+## 🚀 What I Do
 
-### Cloud & Infrastructure
-- AWS (EC2, S3, IAM, VPC, CloudWatch)
-
-### DevOps Tools
-- Jenkins  
-- Docker  
-- Kubernetes  
-- Terraform  
-- Ansible  
-
-### Monitoring
-- Prometheus  
-- Grafana  
-- CloudWatch  
-
-### Scripting & OS
-- Linux  
-- Bash / Shell Scripting  
-- Python  
-
-### Version Control
-- Git  
-- GitHub  
+- **CI/CD Automation:** Design and maintain pipelines with Jenkins and GitHub Actions for build, test and deployment [reduced deploy time by X% / deployed X times per week]
+- **Infrastructure as Code:** Provision repeatable AWS environments using Terraform and configure them with Ansible
+- **Containers & Orchestration:** Containerize applications with Docker and run them on Kubernetes
+- **Observability:** Monitor production with Prometheus, Grafana and CloudWatch, with alerting for faster incident response
+- **Reliability & Support:** Troubleshoot production issues and improve uptime through automation [add measurable result]
 
 ---
 
-## Areas of Expertise
+## 🛠️ Tech Stack
 
-- CI/CD Pipeline Automation  
-- Cloud Infrastructure Management  
-- Containerization & Orchestration  
-- Infrastructure as Code (IaC)  
-- Monitoring & Alerting  
-- Deployment Automation  
-- Production Support & Troubleshooting  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,bash,python,git,github,githubactions,jenkins,docker,kubernetes,terraform,ansible,prometheus,grafana" alt="Tech stack" />
+</p>
+
+| Area | Tools |
+|------|-------|
+| **Cloud** | AWS (EC2, S3, IAM, VPC, CloudWatch) |
+| **CI/CD** | Jenkins, GitHub Actions |
+| **Containers** | Docker, Kubernetes |
+| **IaC & Config** | Terraform, Ansible |
+| **Monitoring** | Prometheus, Grafana, CloudWatch |
+| **Scripting & OS** | Linux, Bash, Python |
+| **Version Control** | Git, GitHub |
 
 ---
 
-## GitHub Stats
+## 📫 Let's Connect
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-gund&show_icons=true&theme=default)
+I'm open to **DevOps / Cloud Engineer** opportunities.
 
----
-
-## Connect With Me
-
-- **LinkedIn:** www.linkedin.com/in/aditya-gund  
-- **Email:** adityagundg14@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/aditya-gund](https://www.linkedin.com/in/aditya-gund)
+- 📧 Email: [adityagundg14@gmail.com](mailto:adityagundg14@gmail.com)
