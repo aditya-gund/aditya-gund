@@ -26,7 +26,7 @@
 
 ## 💼 What I Do
 
-- **CI/CD Automation:** Built declarative Jenkins pipelines-as-code and GitHub Actions workflows for build, test and deployment. GitOps with Argo CD.
+- **CI/CD Automation:** Built declarative GitHub Actions/Jenkins pipelines-as-code and GitHub Actions workflows for build, test and deployment. GitOps with Argo CD.
 - **Infrastructure as Code:** Provision and maintain AWS infrastructure with Terraform, including handling state locks, drift and failed applies safely.
 - **Kubernetes & Containers:** Run Dockerized services on EKS and manage releases with Helm, including CPU/memory requests and limits tuning.
 - **Observability:** Monitor and analyze with Prometheus, Grafana and CloudWatch.
