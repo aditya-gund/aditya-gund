@@ -76,7 +76,7 @@
 
 ## 🏢 Experience
 
-**DevOps Engineer** · Nayagara Technologies · *Nov 2023 – Present*
+**DevOps Engineer** · Asics Technologies · *Nov 2023 – Present*
 AWS, EKS, Terraform, Jenkins, Helm, production support
 
 **Software Engineer (DevOps)** · Persistent Systems · *Jun 2022 – Oct 2023*
