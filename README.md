@@ -5,12 +5,6 @@
   4+ years running production workloads on AWS and Amazon EKS.<br>
   I automate infrastructure and delivery pipelines, and I'm the person you want on call when a pod won't stay up.
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-gund"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:aditya.gund.devops@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
 ---
 
 ## 🚀 Impact at a Glance
@@ -88,6 +82,3 @@
 ## 📫 Let's Connect
 
 I'm open to **DevOps / Cloud / Platform Engineer** opportunities.
-
-- 💼 LinkedIn: [linkedin.com/in/aditya-gund](https://www.linkedin.com/in/aditya-gund)
-- 📧 Email: [adityagundg14@gmail.com](mailto:adityagundg14@gmail.com)
