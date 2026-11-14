@@ -74,15 +74,7 @@
 
 ---
 
-## 🏢 Experience
 
-**DevOps Engineer** · Asics Technologies · *Nov 2023 – Present*
-AWS, EKS, Terraform, Jenkins, Helm, production support
-
-**Software Engineer (DevOps)** · Persistent Systems · *Jun 2022 – Oct 2023*
-CI/CD pipelines, Dockerized microservices, IaC scripting, automation
-
----
 
 ## 📊 GitHub Stats
 
